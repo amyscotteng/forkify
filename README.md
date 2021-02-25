@@ -9,7 +9,7 @@
 * [Contact](#contact)
 
 ## General info
-A simple one page budgeting app built in JavaScript :)
+A one page recipe searching website! :)
 
 ## Technologies
 * HTML5
